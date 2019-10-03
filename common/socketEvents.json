@@ -1,0 +1,10 @@
+{
+  "chatSend": {
+    "eventName": "CHAT_SEND",
+    "description": "This event will be emitted when chat is sent from a client to server"
+  },
+  "chatBroadcast": {
+    "eventName": "CHAT_BROADCAST",
+    "description": "This event will be emitted from the server to connected socket clients broadcasting messages"
+  }
+}
